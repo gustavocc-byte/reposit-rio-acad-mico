@@ -1,0 +1,46 @@
+# 🎓 Projetos Acadêmicos e Pessoais
+
+Bem-vindo(a) ao meu repositório central! Este espaço foi criado para organizar, documentar e versionar a evolução dos meus estudos, trabalhos acadêmicos e projetos desenvolvidos por iniciativa própria.
+
+---
+
+## 🚀 Meu Foco Atual
+
+- ⚙️ **Desenvolvimento Back-end:** Construção de APIs robustas, arquitetura de sistemas, microsserviços e integração com bancos de dados.
+- 🔤 **Aprendizado e Interpretação de Linguagens:** Estudo aprofundado de sintaxe, paradigmas (POO, Funcional), compiladores/interpretadores e análise de linguagens de programação.
+- 🎯 **Engenharia de Software:** Aplicação de boas práticas de código (*Clean Code*, *SOLID*, *Design Patterns*), testes e versionamento eficiente.
+
+---
+
+## 📁 Organização do Repositório
+
+### 🏛️ Projetos Acadêmicos
+*   **[Estruturas de Dados e Algoritmos](./projetos-academicos/estruturas-de-dados)**: Implementação e análise de desempenho de algoritmos de ordenação, busca e estruturas de dados lineares e não-lineares.
+*   **[Sistemas Distribuídos](./projetos-academicos/sistemas-distribuidos)**: Trabalhos práticos focados em comunicação entre processos, concorrência e chamadas remotas (RPC/gRPC).
+*   **[Banco de Dados Relacionais & NoSQL](./projetos-academicos/banco-de-dados)**: Modelagem de dados, otimização de *queries* SQL e estudos práticos com bancos NoSQL.
+
+### 💻 Projetos Pessoais & Estudos de Back-end
+*   **[Interpretador de Linguagem / Lexer & Parser](./projetos-pessoais/interpretador)**: Projeto focado no estudo de teoria das linguagens, análise léxica e sintática para interpretação de código.
+*   **[API RESTful Back-end](./projetos-pessoais/api-backend)**: Sistema de gerenciamento e microsserviço construído com foco em arquitetura em camadas, autenticação JWT e testes unitários.
+*   **[Estudos de Linguagens & Paradigmas](./projetos-pessoais/estudo-linguagens)**: Repositório de testes, algoritmos e comparações de sintaxe/performance entre diferentes linguagens de programação.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### 💻 Linguagens & Back-end
+- **Linguagens de Programação:** Python, Java, C/C++, JavaScript / TypeScript (Node.js) *(Ajuste conforme suas linguagens)*
+- **Bancos de Dados:** PostgreSQL, MySQL, MongoDB, Redis
+- **Conceitos de Linguagens:** Análise Léxica/Sintática, Paradigmas de Programação (POO, Funcional), Compiladores e Interpretadores
+
+### 🛠️ Ferramentas & Engenharia
+- **Ferramentas de Desenvolvimento:** VS Code, IntelliJ IDEA / PyCharm, Docker, Postman / Insomnia
+- **Controle de Versão & DevOps:** Git, GitHub, Git Actions (CI/CD básico)
+
+---
+
+## 📬 Contato e Redes Sociais
+
+
+- 📧 **E-mail:** [gustavo.cc@sempreceub.com]
+- 🐙 **GitHub:** [gustavocc-byte](https://github.com/gustavocc-byte)
